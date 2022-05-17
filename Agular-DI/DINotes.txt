@@ -1,0 +1,136 @@
+Angular- DI
+
+Service:
+
+export class CoursesService() {
+
+   http: HttpClient;
+
+   constructor(http: HttpClient) {
+     this.http = http;
+   }
+...
+}
+
+
+Component:
+
+@Component({
+    selector: 'course-card',
+    templateUrl: './course-card.component.html',
+    styleUrls: ['./course-card.component.css']
+})
+export class CourseCardComponent  {
+
+    constructor(private coursesService: CoursesService) {
+      ...
+    }
+    ...
+}
+
+Provider:
+
+
+function coursesServiceProviderFactory(http:HttpClient): CoursesService {
+  return new CoursesService(http);
+}
+
+Injection Token: this token object can be used to uniquely identify a set of dependencies.
+
+export const COURSES_SERVICE_TOKEN = 
+      new InjectionToken<CoursesService>("COURSES_SERVICE_TOKEN");
+
+Configure Provider: that will know how to create instances of CoursesService if needed.
+
+this manually configured provider needs the following things defined:
+
+
+    useFactory: this should contain a reference to the provider factory function, that Angular will call when needed to create dependencies and inject them
+
+    provide: this contains the injection token linked to this type of dependency. The injection token will help Angular determine when a given provider factory function should be called or not
+
+    deps: this array contains any dependencies that the useFactory function needs in order to run, in this case the HTTP client
+
+      {
+      provide: COURSES_SERVICE_TOKEN,
+      useFactory: coursesServiceProviderFactory,
+      deps: [HttpClient]
+    }
+
+
+
+/**** Using class names as Injection Tokens ******/
+
+      {
+      provide: CoursesService,
+      useFactory: coursesServiceProviderFactory,
+      deps: [HttpClient]
+    }
+
+/**** Simplified configuration of providers: useClass ******/
+
+This way Angular will know that the value that we are passing is a valid constructor function, that Angular can simply call using the new operator:
+
+      {
+      provide: CoursesService,
+      useClass: CoursesService,
+      deps: [HttpClient]
+    }
+
+--- Another super convenient feature of useClass is that for this type of dependencies, Angular will try to infer the injection token at runtime based on the value of the Typescript type annotations.
+
+--- This is because an interface is a compile-time only construct of the Typescript language, so the interface does not exist at runtime.
+
+But notice that just setting your provider like this won't work, because Angular will not know how to find the dependencies of this class (remember the deps property).
+
+For this to work, you need to also apply the Injectable() decorator to the service class:
+
+/***** Understanding Angular multiple value dependencies ******/
+
+
+/**** Understanding Angular Hierarchical Dependency Injection ****/
+
+If you notice, in Angular you have multiple places available where you can define the providers for your dependencies:
+
+    at the level of a module
+    at the level of a component
+    or even at the level of a directive!
+
+
+This process of going up the component tree searching for the right provider is known as dependency resolution
+
+/**** Understanding Modules Hierarchical Dependency Injection via an example ****/
+
+So when Angular is trying to find a dependency for a component or service, it will first try to create the dependency by using providers at the level of the component tree, if available.
+
+If Angular follows all the components up until the root component without finding a matching provider and it still doesn't find anything, only then will Angular try to find a matching provider at the level of the modules hierarchy.
+
+Angular will then start with the providers of the current module, and look for a matching provider.
+
+If it doesn't find it, then Angular will try to find a provider with the parent module of the current module, etc. until reaching the root module of the application.
+
+
+/****** Configuring the Dependency Injection Resolution mechanism *****/
+
+// @Optional //
+
+For example, what if we would want to prevent the final error from being thrown, because the dependency might not be needed and you might have another alternative to using it?
+
+// @SkipSelf //
+
+For example, you might have some provider for a service at the level of your component that you want to provide to its child components, but the component itself needs an instance of that same service to work, and it needs to get it from its parent components and not from its own providers.
+
+// @Self //
+
+For example, if we want our component to look for a dependency in its own providers only, and skip checking the providers of all its parent components, we can do so by using the Self decorator:
+
+// @Host //
+
+The use of the Host decorator configures where Angular should stop searching for a dependency, in a similar way to what Self does.
+
+But in this case, this decorator is meant for directives only, and it says to Angular to search for a matching provider only on the providers of its host component, and nowhere else
+
+
+/**** What are Tree-Shakeable Providers? *****/
+
+

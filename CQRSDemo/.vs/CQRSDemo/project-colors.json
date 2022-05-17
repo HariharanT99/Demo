@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "abed4781-5a07-4a0a-9682-bffe4763ae50": {
+      "ProjectGuid": "abed4781-5a07-4a0a-9682-bffe4763ae50",
+      "DisplayName": "CQRSDemo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

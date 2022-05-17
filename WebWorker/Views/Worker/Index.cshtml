@@ -1,0 +1,23 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Worker";
+}
+
+<p>@ViewBag.Name</p>
+
+<div>
+    <button id="work-btn">Click me</button>
+    <button id="btn">Try to click me</button>
+
+    <h1 id="random"></h1>
+    <h1 id="output"></h1>
+</div>
+
+<a asp-action="Demo">Test</a>
+<a asp-action="Demo" asp-route-id="123as">Test2</a>
+
+@section Scripts{
+<script src="~/js/jstz.js"></script>
+}

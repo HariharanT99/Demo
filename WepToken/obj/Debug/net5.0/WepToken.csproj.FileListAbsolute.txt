@@ -1,0 +1,144 @@
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\WepToken.csproj.AssemblyReference.cache
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\WepToken.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\WepToken.AssemblyInfoInputs.cache
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\WepToken.AssemblyInfo.cs
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\WepToken.csproj.CoreCompileInputs.cache
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\WepToken.MvcApplicationPartsAssemblyInfo.cache
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\WepToken.RazorAssemblyInfo.cache
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\WepToken.RazorAssemblyInfo.cs
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\appsettings.Development.json
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\appsettings.json
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\WepToken.exe
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\WepToken.deps.json
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\WepToken.runtimeconfig.json
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\WepToken.runtimeconfig.dev.json
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\WepToken.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\ref\WepToken.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\WepToken.pdb
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\WepToken.Views.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\WepToken.Views.pdb
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\Humanizer.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\staticwebassets\WepToken.StaticWebAssets.Manifest.cache
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\staticwebassets\WepToken.StaticWebAssets.xml
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\scopedcss\bundle\WepToken.styles.css
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\WepToken.TagHelpers.input.cache
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\WepToken.TagHelpers.output.cache
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\WepToken.RazorCoreGenerate.cache
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\WepToken.RazorTargetAssemblyInfo.cache
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\WepToken.RazorTargetAssemblyInfo.cs
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\WepToken.Views.pdb
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\WepToken.csproj.CopyComplete
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\WepToken.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\ref\WepToken.dll
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\WepToken.pdb
+D:\Training\ImportDemo\Authentication Web token\WepToken\obj\Debug\net5.0\WepToken.genruntimeconfig.cache
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\appsettings.Development.json
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\appsettings.json
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\WepToken.exe
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\WepToken.deps.json
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\WepToken.runtimeconfig.json
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\WepToken.runtimeconfig.dev.json
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\WepToken.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\ref\WepToken.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\WepToken.pdb
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\WepToken.Views.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\WepToken.Views.pdb
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\Humanizer.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Training\ImportDemo\WepToken\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\WepToken.csproj.AssemblyReference.cache
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\WepToken.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\WepToken.AssemblyInfoInputs.cache
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\WepToken.AssemblyInfo.cs
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\WepToken.csproj.CoreCompileInputs.cache
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\WepToken.MvcApplicationPartsAssemblyInfo.cache
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\WepToken.RazorAssemblyInfo.cache
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\WepToken.RazorAssemblyInfo.cs
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\staticwebassets\WepToken.StaticWebAssets.Manifest.cache
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\staticwebassets\WepToken.StaticWebAssets.xml
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\scopedcss\bundle\WepToken.styles.css
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\WepToken.TagHelpers.input.cache
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\WepToken.TagHelpers.output.cache
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\WepToken.RazorCoreGenerate.cache
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\WepToken.RazorTargetAssemblyInfo.cache
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\WepToken.RazorTargetAssemblyInfo.cs
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\WepToken.Views.pdb
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\WepToken.csproj.CopyComplete
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\WepToken.dll
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\ref\WepToken.dll
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\WepToken.pdb
+D:\Training\ImportDemo\WepToken\obj\Debug\net5.0\WepToken.genruntimeconfig.cache

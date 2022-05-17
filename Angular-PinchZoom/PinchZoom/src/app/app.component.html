@@ -1,0 +1,55 @@
+<div class="page-wrap">
+  <h1>Double tap to zoom</h1>
+  <div class="image">
+    <pinch-zoom [transition-duration]="200" [auto-zoom-out]="true" [double-tap]="true" [draggableImage]="false">
+      <img src="assets/image/nature-5029360_1920.jpg">
+    </pinch-zoom>
+  </div>
+</div>
+
+<div>
+  <h1>Double tap to zoom</h1>
+  <div>
+    <!-- <img src="assets/image/nature-5029360_1920.jpg" appPinchToZoom> -->
+    <!-- <pinch-zoom></pinch-zoom> -->
+    <ngx-extended-pdf-viewer
+      [src]="'/assets/pdf/AppointmentReciept.pdf'"
+      [height]="'90vh'"
+      [useBrowserLocale]="true"
+      [zoom]="'page-width'"
+      [enablePinchOnMobile]="true"
+      [minZoom]="0.5"
+      [maxZoom]="1.5"
+    ></ngx-extended-pdf-viewer>
+  </div>
+</div>
+
+<!-- <div class="page-wrap">
+  <div class="demo">
+
+  </div>
+  <h1>Poper</h1>
+  <div class="wrap">
+    <popper-content #popper1Content>
+      <p class="bold">Popper on bottom</p>
+    </popper-content>
+    <input popper="As text"
+    [popper]="popper1Content"
+    [popperShowOnStart]="false"
+    [popperPositionFixed]="true"
+    [popperTrigger]="popClick"
+    [popperPlacement]="popPlacement"
+    [popperAppendTo]="'body'"
+    [popperHideOnClickOutside]="true"
+    [popperApplyArrowClass]="'d-none'"
+    [popperApplyClass]="'p-0'"
+    >
+  </div>
+    
+
+
+  <div class="demo">
+
+  </div>
+</div>
+   -->

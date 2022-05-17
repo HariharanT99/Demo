@@ -1,0 +1,25 @@
+.page-wrap{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+
+.wrap{
+    max-height: 100px;
+    overflow: auto;
+}
+
+.bold{
+    margin-top: 100px;
+}
+
+.demo{
+    min-height: 500px;
+    background-color: red;
+    width: 50%;
+    margin-top: 50px;
+}

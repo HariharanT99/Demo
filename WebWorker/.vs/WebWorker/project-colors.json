@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6346efa9-2c3e-49e0-99c0-be211696ad9e": {
+      "ProjectGuid": "6346efa9-2c3e-49e0-99c0-be211696ad9e",
+      "DisplayName": "WebWorker",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

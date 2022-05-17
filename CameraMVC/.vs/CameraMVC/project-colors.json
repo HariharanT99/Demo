@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0fa39fcb-0fe8-4f0e-8fd7-d974de325cfe": {
+      "ProjectGuid": "0fa39fcb-0fe8-4f0e-8fd7-d974de325cfe",
+      "DisplayName": "CameraMVC",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
