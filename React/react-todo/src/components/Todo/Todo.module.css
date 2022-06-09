@@ -1,0 +1,23 @@
+.Todo {}
+
+/* .text{
+    width: 100px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+} */
+
+li{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+
+.deletebtn{
+    background-color: red;
+    color: floralwhite;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+}

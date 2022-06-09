@@ -1,0 +1,28 @@
+.AddTodo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
+    border: 1px solid rgba(6, 145, 201, 0.333);
+    background-color: aqua;
+    border-radius: 15px;
+    padding: 20px;
+
+    width: 50%;
+    margin: auto;
+}
+
+.btn{
+    border: none;
+    padding: 10px 20px;
+    background-color: greenyellow;
+}
+
+.inpt{
+    padding: 5px;
+}
+
+.form{
+    display: flex;
+    gap: 10px;
+}
