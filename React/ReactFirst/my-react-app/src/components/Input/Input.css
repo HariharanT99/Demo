@@ -1,0 +1,38 @@
+.Input{
+    border: 2px solid red;
+    border-radius: 30px;
+    background-color: #ffa339;
+    margin: 20px;
+    position: fixed;
+    top: 100px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+form{
+    margin: 10px;
+    padding: 10px;
+}
+
+label{
+    font-size: large;
+    font-weight: 600;
+    margin: 10px;
+}
+
+input{
+    padding: 5px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+button{
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: greenyellow;
+    color: black;
+    border: none;
+    border-radius: 5px;
+}

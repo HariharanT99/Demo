@@ -1,0 +1,8 @@
+ul{
+    width: 370px;
+    margin: auto;
+}
+
+li{
+    width: fit-content;
+}
